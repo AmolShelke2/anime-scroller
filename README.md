@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# anime scroller
+
+A carousel created with React.js, Tailwindcss. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
