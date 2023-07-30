@@ -6,6 +6,9 @@ A carousel created with React.js, Tailwindcss. It's created from scratch not use
 - React.js
 - TailwindCSS.
 
+## Preview
+
+https://github.com/AmolShelke2/anime-scroller/assets/95171638/7dbfbe7e-2b50-476b-aa23-1b28039b2cf9
 
 ## Getting Started with Create React App
 
