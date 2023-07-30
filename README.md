@@ -1,6 +1,11 @@
 # anime scroller
 
-A carousel created with React.js, Tailwindcss. 
+A carousel created with React.js, Tailwindcss. It's created from scratch not use any external library.
+
+## Technologies
+- React.js
+- TailwindCSS.
+
 
 ## Getting Started with Create React App
 
