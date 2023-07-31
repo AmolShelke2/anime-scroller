@@ -6,6 +6,13 @@ export const animeData = [
     banner_img:
       "https://c4.wallpaperflare.com/wallpaper/503/279/714/anime-naruto-deidara-naruto-hidan-naruto-wallpaper-preview.jpg",
   },
+   {
+    title: "Dragon Ball Z",
+    short_description:
+      "Goku and his friends defend Earth from powerful foes while seeking the dragon balls.",
+    banner_img:
+      "https://c4.wallpaperflare.com/wallpaper/292/734/554/dragon-ball-super-8k-goku-black-4k-wallpaper-preview.jpg",
+  },
   {
     title: "Attack on Titan",
     short_description:
@@ -60,12 +67,5 @@ export const animeData = [
       "A college student turned half-ghoul struggles to live between the human and ghoul worlds.",
     banner_img:
       "https://c4.wallpaperflare.com/wallpaper/568/228/51/tokyo-ghoul-kaneki-ken-wallpaper-preview.jpg",
-  },
-  {
-    title: "Dragon Ball Z",
-    short_description:
-      "Goku and his friends defend Earth from powerful foes while seeking the dragon balls.",
-    banner_img:
-      "https://c4.wallpaperflare.com/wallpaper/292/734/554/dragon-ball-super-8k-goku-black-4k-wallpaper-preview.jpg",
   },
 ];

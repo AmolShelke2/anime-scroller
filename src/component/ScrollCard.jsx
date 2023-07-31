@@ -10,7 +10,7 @@ export const ScrollCard = ({ title, text, bannerURL }) => {
           <img
             src={bannerURL}
             alt="anime"
-            className="rounded-md h-[20vh] w-full"
+            className="rounded-md h-[180px] w-full"
           />
         </div>
         <div className="mt-[2px] max-w-[85%] scrollbar">
